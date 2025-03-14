@@ -7,7 +7,7 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://cx330-502.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=person&color=red"/></a>
+<a href="https://Sixiang-Wang.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=person&color=red"/></a>
 </p>
 
 
