@@ -6,8 +6,8 @@
 <!-- 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。 -->
 
 <p>
-<a href="https://Sixiang-Wang.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=个人博客&color=red"/></a>
-<a href="https://github.com/Sixiang-Wang/BUAA-Compiler"><img src="https://img.shields.io/static/v1?label=Compiler&message=编译器&color=red"/></a>
+<a href="https://Sixiang-Wang.github.io"><img src="https://img.shields.io/static/v1?label=Personal&message=Blog&color=red"/></a>
+<a href="https://github.com/Sixiang-Wang/BUAA-Compiler"><img src="https://img.shields.io/static/v1?label=C->MIPS &message=Compiler&color=red"/></a>
 </p>
 
 
